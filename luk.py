@@ -1,2 +1,3 @@
 def multiply(a,b):
-	pass
+	multiplication = a * b
+	print multiplication
